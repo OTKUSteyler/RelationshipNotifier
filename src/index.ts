@@ -1,3 +1,4 @@
+import { after } from "@vendetta/patcher";
 import { definePlugin } from "@vendetta/plugin";
 import { findByProps } from "@vendetta/metro";
 import { showToast } from "@vendetta/ui/toasts";
